@@ -45,10 +45,18 @@
 <hr>
 
 ### 📊 GitHub Stats:
-[![Adeebs's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=adeebrq&theme=dark&count_private=true&show_icons=true)](https://github.com/adeebrq/github-readme-stats#gh-dark-mode-only)
-![](https://github-readme-streak-stats.herokuapp.com/?user=adeebrq&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adeebrq&count_private=true&show_icons=true&theme=dark)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=adeebrq&theme=dark&count_private=true&show_icons=true" alt="Adeebs's GitHub stats-Dark" style="display: block;">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeebrq&theme=dark" alt="Streak Stats" style="display: block;">
+    </td>
+  </tr>
+</table>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adeebrq&count_private=true&show_icons=true&theme=dark)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adeebrq&theme=radical&no-frame=false&no-bg=false&margin-w=4)
