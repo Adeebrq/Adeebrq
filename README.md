@@ -45,17 +45,16 @@
 <hr>
 
 ### 📊 GitHub Stats:
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1; min-width: 300px; max-width: 500px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2%;">
+  <div style="flex: 1; min-width: 45%; max-width: 45%;">
     <a href="https://github.com/adeebrq/github-readme-stats#gh-dark-mode-only">
       <img src="https://github-readme-stats.vercel.app/api?username=adeebrq&theme=dark&count_private=true&show_icons=true" alt="Adeebs's GitHub stats" style="width: 100%;"/>
     </a>
   </div>
-  
-  <div style="flex: 1; min-width: 300px; max-width: 500px;">
+  <div style="flex: 1; min-width: 45%; max-width: 45%;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeebrq&theme=dark" alt="Adeebs's GitHub streak" style="width: 100%;"/>
   </div>
-  <div style="flex: 1; min-width: 300px; max-width: 500px; margin-top: 20px;">
+  <div style="flex: 1; min-width: 90%; max-width: 90%; margin-top: 2%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeebrq&count_private=true&show_icons=true&theme=dark" alt="Top Languages" style="width: 100%;"/>
   </div>
 
