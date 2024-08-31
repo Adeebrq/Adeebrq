@@ -45,9 +45,21 @@
 <hr>
 
 ### 📊 GitHub Stats:
-[![Adeebs's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=adeebrq&theme=dark&count_private=true&show_icons=true)](https://github.com/adeebrq/github-readme-stats#gh-dark-mode-only)
-![](https://github-readme-streak-stats.herokuapp.com/?user=adeebrq&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adeebrq&count_private=true&show_icons=true&theme=dark)
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; min-width: 300px; max-width: 500px;">
+    <a href="https://github.com/adeebrq/github-readme-stats#gh-dark-mode-only">
+      <img src="https://github-readme-stats.vercel.app/api?username=adeebrq&theme=dark&count_private=true&show_icons=true" alt="Adeebs's GitHub stats" style="width: 100%;"/>
+    </a>
+  </div>
+  
+  <div style="flex: 1; min-width: 300px; max-width: 500px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeebrq&theme=dark" alt="Adeebs's GitHub streak" style="width: 100%;"/>
+  </div>
+  <div style="flex: 1; min-width: 300px; max-width: 500px; margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeebrq&count_private=true&show_icons=true&theme=dark" alt="Top Languages" style="width: 100%;"/>
+  </div>
+
+</div>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adeebrq&theme=radical&no-frame=false&no-bg=false&margin-w=4)
